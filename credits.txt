@@ -7,11 +7,6 @@ Typeface
 Lato by Łukasz Dziedzic. SIL Open Font License 1.1, included in assets/fonts/OFL.txt.
 
 Institution marks (for affiliation identification)
-City University of Hong Kong — https://en.wikipedia.org/wiki/File:CityU_logo.svg
-National University of Singapore — https://en.wikipedia.org/wiki/File:NUS_coat_of_arms.svg
-Xi'an Jiaotong University — https://en.wikipedia.org/wiki/File:Xi%27an_Jiaotong_University.png
-Northwest University — https://en.wikipedia.org/wiki/File:Northwest_University,_China_logo.png
-Northwestern Polytechnical University — https://en.wikipedia.org/wiki/File:Seal_of_NWPU.png
 University of Oxford, arms drawn by Jonas Magnus Lystad, unmodified — https://commons.wikimedia.org/wiki/File:Arms_of_University_of_Oxford.svg
 
 Huawei — https://en.wikipedia.org/wiki/File:Huawei_Standard_logo.svg
